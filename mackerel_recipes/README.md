@@ -1,56 +1,87 @@
-# 🐟 10 Therapeutic Mackerel Recipes
+# 🐟 Therapeutic Mackerel Cookbook
+### Lipid-Optimized • Insulin-Friendly • Anti-Inflammatory
+
 Designed for:
 - Lowering Triglycerides
 - Raising HDL
 - Improving Insulin Sensitivity
-- Reducing Inflammation
 - Supporting Vascular Health
+- Reducing Systemic Inflammation
 
-Oil Rule: Max 1 tsp per serving  
-No deep frying • No reheated oil • No processed ingredients  
+---
+
+## 📚 Table of Contents
+
+1. [Classic Turmeric Grill](#1-classic-anti-triglyceride-turmeric-grill)
+2. [Light Coconut Diluted Curry](#2-light-coconut-diluted-curry)
+3. [Smoky Pepper Garlic Crust](#3-smoky-black-pepper-garlic-crust)
+4. [Steamed Herb Infusion](#4-steamed-herb-infusion)
+5. [Tomato–Kokum Konkan Curry](#5-tomatokokum-konkan-curry)
+6. [Mustard Yogurt Pan Curry](#6-mustard-yogurt-pan-curry)
+7. [Green Coriander Chilli Grill](#7-green-coriander-chilli-grill)
+8. [Garlic Tomato Dry Masala Toss](#8-garlic-tomato-dry-masala-toss)
+9. [Mediterranean Lemon-Oregano Sear](#9-mediterranean-lemon-oregano-pan-sear)
+10. [Ginger-Tamarind Reduction Curry](#10-ginger-tamarind-spicy-reduction)
+
+---
+
+## 🔬 Core Rules
+
+- Oil: Max 1 tsp per serving
+- No deep frying
+- No reheated oil
+- No processed ingredients
+- Avoid charring
+- Coconut only in diluted form (max once weekly)
+
+Protein per serving: ~40–45g  
+Fish weight per serving: 230–250g  
+
+---
+
+# RECIPES
 
 ---
 
 ## 1. Classic Anti-Triglyceride Turmeric Grill
 
-![Grilled Mackerel](https://source.unsplash.com/800x600/?grilled,mackerel)
+![Grilled Mackerel](https://source.unsplash.com/800x500/?grilled,mackerel)
 
-### Ingredients (1 Serving ~240g Fish)
+### Ingredients
 - 240g cleaned mackerel
 - ½ tsp turmeric
 - 1 tsp ginger-garlic paste
 - ½ tsp jeera powder
 - ½ tsp black pepper
 - 1 tsp mustard oil (total)
-- ½ lemon juice
+- Lemon juice
 - Salt ≤ ½ tsp
 
 ### Method
-Marinate 20 mins → Pan grill 5–6 mins each side → Avoid charring.
+Marinate 20 mins → Grill 5–6 mins per side → Avoid burning.
 
 ### Pair With
 - Steamed vegetables
-- ½ cup foxtail millet
+- ½ cup millet
 - Cucumber salad
 
 ---
 
 ## 2. Light Coconut Diluted Curry
 
-![Light Coconut Fish Curry](https://source.unsplash.com/800x600/?fish,curry,light)
+![Light Coconut Curry](https://source.unsplash.com/800x500/?light,fish,curry)
 
 ### Ingredients
 - 240g mackerel
 - 2 tbsp grated coconut (diluted)
 - 1 small onion
 - 1 tomato
-- ½ tsp turmeric
-- 1 tsp coriander powder
-- 1 tsp mustard oil total
 - Tamarind water
+- 1 tsp oil total
+- Turmeric + coriander powder
 
 ### Method
-Sauté onion lightly → Add tomato + spices → Add diluted coconut → Simmer → Add fish 7 mins.
+Light sauté → Add tomato → Add diluted coconut → Simmer → Add fish 7–8 mins.
 
 ### Pair With
 - Red rice (½ cup)
@@ -60,89 +91,89 @@ Sauté onion lightly → Add tomato + spices → Add diluted coconut → Simmer 
 
 ## 3. Smoky Black Pepper Garlic Crust
 
-![Pepper Crusted Fish](https://source.unsplash.com/800x600/?pepper,fish)
+![Pepper Crusted Fish](https://source.unsplash.com/800x500/?pepper,fish)
 
 ### Ingredients
 - 240g mackerel
 - 1 tsp crushed black pepper
 - 1 tsp grated garlic
 - ½ tsp turmeric
-- 1 tsp mustard oil total
 - Lemon zest
+- 1 tsp oil total
 
 ### Method
-Apply dry rub → Pan cook skin side down 6 mins → Flip 4 mins.
+Apply dry rub → Pan cook 6 mins → Flip 4 mins.
 
 ### Pair With
-- Sautéed spinach
-- Light cabbage stir fry
+- Spinach sauté
+- Cabbage stir fry
 
 ---
 
 ## 4. Steamed Herb Infusion
 
-![Steamed Fish](https://source.unsplash.com/800x600/?steamed,fish)
+![Steamed Fish](https://source.unsplash.com/800x500/?steamed,fish)
 
 ### Ingredients
 - 240g mackerel
 - Coriander + mint paste
 - Ginger + garlic
-- Lemon juice
-- ½ tsp mustard oil (optional)
+- Lemon
+- ½ tsp oil optional
 
 ### Method
-Coat fish → Wrap in banana leaf → Steam 12–15 mins.
+Wrap → Steam 12–15 mins → Rest before serving.
 
 ### Pair With
 - Cucumber salad
-- Steamed ridge gourd
+- Ridge gourd
 
 ---
 
 ## 5. Tomato–Kokum Konkan Curry
 
-![Tomato Fish Curry](https://source.unsplash.com/800x600/?tomato,fish,curry)
+![Tomato Fish Curry](https://source.unsplash.com/800x500/?tomato,fish,curry)
 
 ### Ingredients
 - 240g mackerel
 - 2 tomatoes (pureed)
 - 2–3 kokum pieces
-- ½ tsp turmeric
-- 1 tsp mustard oil
 - Curry leaves
+- 1 tsp oil total
+- Turmeric
 
 ### Method
-Sauté lightly → Add tomato → Add water + kokum → Add fish 8 mins simmer.
+Light sauté → Add tomato → Add kokum → Add fish → Simmer 8 mins.
 
 ### Pair With
 - ½ cup red rice
-- Carrot cucumber salad
+- Raw carrot salad
 
 ---
 
 ## 6. Mustard Yogurt Pan Curry
 
-![Mustard Fish Curry](https://source.unsplash.com/800x600/?mustard,fish)
+![Mustard Fish Curry](https://source.unsplash.com/800x500/?mustard,fish,curry)
 
 ### Ingredients
 - 240g mackerel
 - 3 tbsp thick curd (whisked)
 - ½ tsp mustard paste
-- ½ tsp turmeric
+- Turmeric
 - 1 tsp oil total
 
 ### Method
-Heat spices gently → Lower flame → Add curd mix → Add fish → Simmer gently.
+Low heat → Add curd mix → Add fish → Gentle simmer.
 
 ### Pair With
-- Steamed broccoli
+- Broccoli
 - Millet roti
 
 ---
 
 ## 7. Green Coriander Chilli Grill
 
-![Green Herb Fish Grill](https://source.unsplash.com/800x600/?herb,fish,grill)
+![Green Herb Fish](https://source.unsplash.com/800x500/?herb,fish,grill)
 
 ### Ingredients
 - 240g mackerel
@@ -163,17 +194,17 @@ Apply paste → Rest 20 mins → Grill 6 mins each side.
 
 ## 8. Garlic Tomato Dry Masala Toss
 
-![Dry Masala Fish](https://source.unsplash.com/800x600/?indian,fish,masala)
+![Dry Masala Fish](https://source.unsplash.com/800x500/?indian,fish,masala)
 
 ### Ingredients
 - 240g mackerel
 - 1 tomato finely chopped
 - 1 tsp garlic
-- ½ tsp turmeric
+- Turmeric
 - 1 tsp oil total
 
 ### Method
-Cook tomato till thick → Add fish → Toss gently till coated.
+Cook tomato thick → Add fish → Toss till coated.
 
 ### Pair With
 - Steamed cabbage
@@ -183,7 +214,7 @@ Cook tomato till thick → Add fish → Toss gently till coated.
 
 ## 9. Mediterranean Lemon-Oregano Pan Sear
 
-![Mediterranean Mackerel](https://source.unsplash.com/800x600/?mediterranean,fish)
+![Mediterranean Fish](https://source.unsplash.com/800x500/?mediterranean,fish)
 
 ### Ingredients
 - 240g mackerel
@@ -193,45 +224,55 @@ Cook tomato till thick → Add fish → Toss gently till coated.
 - Black pepper
 
 ### Method
-Heat olive oil → Sear 5 mins each side → Finish with lemon + oregano.
+Pan sear 5–6 mins per side → Finish with lemon.
 
 ### Pair With
 - Olive-cucumber salad
-- Steamed zucchini
+- Zucchini
 
 ---
 
 ## 10. Ginger-Tamarind Spicy Reduction
 
-![Spicy Fish Curry](https://source.unsplash.com/800x600/?spicy,fish,curry)
+![Spicy Fish Curry](https://source.unsplash.com/800x500/?spicy,fish,curry)
 
 ### Ingredients
 - 240g mackerel
 - 1 tsp grated ginger
 - Tamarind water
-- ½ tsp turmeric
+- Turmeric
 - 1 tsp oil total
 
 ### Method
-Sauté ginger lightly → Add spices → Add water + tamarind → Add fish → Simmer 8 mins.
+Light sauté → Add tamarind → Add fish → Simmer 8 mins.
 
 ### Pair With
-- Steamed bottle gourd
+- Bottle gourd
 - Small red rice portion
 
 ---
 
-# Weekly Suggested Rotation
+# 📊 Suggested Weekly Rotation
 
-- Day 1: Recipe 1  
-- Day 2: Recipe 5  
-- Day 3: Recipe 3  
-- Optional: Replace one with Recipe 4 for lowest fat day  
-- Coconut version max once weekly  
+| Day | Recipe |
+|-----|--------|
+| Mon | #1 Grill |
+| Wed | #5 Tomato Kokum |
+| Fri | #3 Pepper Crust |
+| Optional | #4 Steam (Lightest Day) |
+
+Coconut version: max once weekly.
 
 ---
 
-Protein per serving: ~40–45g  
-Omega-3 rich  
-Oil controlled  
-Metabolic safe
+# ⚖ Nutritional Highlights
+
+- Protein: ~40–45g per serving
+- Rich in EPA/DHA Omega-3
+- Low saturated fat (except diluted coconut variant)
+- Insulin supportive
+- Anti-inflammatory spice profile
+
+---
+
+End of Cookbook
